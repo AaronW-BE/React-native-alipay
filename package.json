@@ -1,0 +1,19 @@
+{
+  "name": "react-native-alipay-android-acinfo",
+  "version": "1.0.2",
+  "description": "a alipay module for android, include auth, payment for app",
+  "main": "index.js",
+  "keywords": [
+    "alipay"
+  ],
+  "homepage": "http://xxx.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ACINFO/React-native-alipay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ACINFO/React-native-alipay/issues"
+  },
+  "author": "aaron,acinfo",
+  "license": "MIT"
+}
